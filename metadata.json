@@ -1,0 +1,7 @@
+{
+  "name": "圣诞树",
+  "description": "A high-fidelity 3D interactive experience featuring a dynamic, morphing Christmas tree with a luxury Trump-style gold and emerald aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
